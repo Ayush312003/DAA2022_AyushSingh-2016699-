@@ -14,7 +14,7 @@ int main()
     }
     int c=0;
     for(int x=0;x<n;x++)
-    {@Ayush312003
+    {
         for(int y=x+1;y<n;y++)
         {
             for(int z=y+1;z<n;z++)
